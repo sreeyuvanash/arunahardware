@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+    margin: 200;
+    padding-top: 0px;
+}
+            
+a:link {
+  color: rgb(255, 0, 0);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.profile {
+    width: 150px;
+    margin-bottom: 50px;
+    border-radius: 100%;
+}
+#grad1 {
+    height: 1000px;
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+  }
+
+
+
+h1 {
+    font-size: 40px;
+    line-height: 1;
+    font-family: 'High Tower Text', cursive;
+    font-weight: 300;
+}
+.aruna1 {
+  float: right;
+  margin-left:20px;
+  
+
+ }
+
+.aruna2 {
+  float: left;
+  margin-right:20px;
+  
+
+ }
+ #grad2 {
+   height: 2000px;
+   background: linear-gradient(red,blue,green);
+ }
+
+
